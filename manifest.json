@@ -1,0 +1,6 @@
+{
+  "name": "Amaar App",
+  "short_name": "Amaar",
+  "start_url": "./index.html",
+  "display": "standalone"
+}
