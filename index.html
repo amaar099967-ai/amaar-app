@@ -1,17 +1,56 @@
+
 <!DOCTYPE html>
-<html lang="ar">
+<html lang="ar" dir="rtl">
 <head>
 <meta charset="UTF-8">
-<title>Amaar App</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PWA Projects</title>
+<link rel="manifest" href="manifest.json">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-<script src="smartCatalog.js"></script>
-<script src="db.js"></script>
+
+<div class="lang-switch">
+  <button onclick="setLang('ar')">AR</button>
+  <button onclick="setLang('en')">EN</button>
+</div>
+
+<div id="login" class="card center">
+  <h2 data-i18n="login">تسجيل الدخول</h2>
+  <input id="user" data-i18n-ph="username" placeholder="اسم المستخدم">
+  <input id="pass" type="password" data-i18n-ph="password" placeholder="كلمة المرور">
+  <button onclick="login()" data-i18n="enter">دخول</button>
+</div>
+
+<div id="dash" class="hidden">
+  <aside class="sidebar">
+    <h3 data-i18n="dashboard">لوحة التحكم</h3>
+    <button onclick="newProject()" data-i18n="newProject">مشروع جديد</button>
+    <button id="usersBtn" onclick="openUsers()" data-i18n="users">المستخدمين</button>
+    <button onclick="exportData()" data-i18n="export">تصدير</button>
+  </aside>
+
+  <main class="content">
+    <div class="card">
+      <table id="table">
+        <thead>
+          <tr>
+            <th data-i18n="details">تفاصيل</th>
+            <th data-i18n="price">سعر</th>
+            <th data-i18n="qty">عدد</th>
+            <th data-i18n="total">الإجمالي</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <button id="addBtn" onclick="addRow()" data-i18n="addItem">إضافة بند</button>
+      <input id="paid" data-i18n-ph="paid" placeholder="المُسلَّم لنا" oninput="calc()">
+      <div id="total"></div>
+      <div id="remain"></div>
+    </div>
+  </main>
+</div>
+
 <script src="app.js"></script>
-<script>
-if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('sw.js');
-}
-</script>
 </body>
 </html>

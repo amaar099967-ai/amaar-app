@@ -1,0 +1,14 @@
+
+body{margin:0;font-family:Arial;background:#020617;color:#fff}
+.center{max-width:380px;margin:80px auto}
+.card{background:#1e293b;padding:20px;border-radius:18px}
+button{padding:10px;margin:5px;border:none;border-radius:10px;
+background:#2563eb;color:white}
+input{width:100%;padding:8px;margin:5px;border-radius:8px;border:none}
+.hidden{display:none}
+#dash{display:flex;min-height:100vh}
+.sidebar{width:220px;background:#020617;padding:15px}
+.content{flex:1;padding:20px}
+.lang-switch{position:fixed;top:10px;left:10px}
+table{width:100%;border-collapse:collapse}
+th,td{border-bottom:1px solid #334155;padding:6px}
