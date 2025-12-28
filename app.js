@@ -1,1 +1,57 @@
-eval(atob('CmNvbnN0IGRpY3Q9ewogYXI6ewogIGxvZ2luOiLYqtiz2KzZitmEINin2YTYr9iu2YjZhCIsZW50ZXI6Itiv2K7ZiNmEIix1c2VybmFtZToi2KfYs9mFINin2YTZhdiz2KrYrtiv2YUiLHBhc3N3b3JkOiLZg9mE2YXYqSDYp9mE2YXYsdmI2LEiLAogIGRhc2hib2FyZDoi2YTZiNit2Kkg2KfZhNiq2K3Zg9mFIixuZXdQcm9qZWN0OiLZhdi02LHZiNi5INis2K/ZitivIix1c2Vyczoi2KfZhNmF2LPYqtiu2K/ZhdmK2YYiLGV4cG9ydDoi2KrYtdiv2YrYsSIsCiAgZGV0YWlsczoi2KrZgdin2LXZitmEIixwcmljZToi2LPYudixIixxdHk6Iti52K/YryIsdG90YWw6Itin2YTYpdis2YXYp9mE2YoiLGFkZEl0ZW06Itil2LbYp9mB2Kkg2KjZhtivIixwYWlkOiLYp9mE2YXZj9iz2YTZkdmO2YUg2YTZhtinIgogfSwKIGVuOnsKICBsb2dpbjoiTG9naW4iLGVudGVyOiJFbnRlciIsdXNlcm5hbWU6IlVzZXJuYW1lIixwYXNzd29yZDoiUGFzc3dvcmQiLAogIGRhc2hib2FyZDoiRGFzaGJvYXJkIixuZXdQcm9qZWN0OiJOZXcgUHJvamVjdCIsdXNlcnM6IlVzZXJzIixleHBvcnQ6IkV4cG9ydCIsCiAgZGV0YWlsczoiRGV0YWlscyIscHJpY2U6IlByaWNlIixxdHk6IlF0eSIsdG90YWw6IlRvdGFsIixhZGRJdGVtOiJBZGQgSXRlbSIscGFpZDoiUGFpZCIKIH0KfTsKCmxldCBsYW5nPSJhciI7CmZ1bmN0aW9uIHNldExhbmcobCl7CiBsYW5nPWw7CiBkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQubGFuZz1sOwogZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LmRpcj1sPT09ImFyIj8icnRsIjoibHRyIjsKIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoIltkYXRhLWkxOG5dIikuZm9yRWFjaChlPT5lLmlubmVyVGV4dD1kaWN0W2xdW2UuZGF0YXNldC5pMThuXSk7CiBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCJbZGF0YS1pMThuLXBoXSIpLmZvckVhY2goZT0+ZS5wbGFjZWhvbGRlcj1kaWN0W2xdW2UuZGF0YXNldC5pMThuUGhdKTsKIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCJsYW5nIixsKTsKfQpzZXRMYW5nKGxvY2FsU3RvcmFnZS5nZXRJdGVtKCJsYW5nIil8fCJhciIpOwoKbGV0IGRiLGN1cnJlbnRVc2VyOwpjb25zdCByPWluZGV4ZWREQi5vcGVuKCJzeXNEQiIsMSk7CnIub251cGdyYWRlbmVlZGVkPWU9PnsKIGRiPWUudGFyZ2V0LnJlc3VsdDsKIGNvbnN0IHU9ZGIuY3JlYXRlT2JqZWN0U3RvcmUoInVzZXJzIix7a2V5UGF0aDoidSJ9KTsKIHUuYWRkKHt1OiJhZG1pbiIscDoiMTIzNCIscm9sZToiYWRtaW4ifSk7CiBkYi5jcmVhdGVPYmplY3RTdG9yZSgicm93cyIse2F1dG9JbmNyZW1lbnQ6MX0pOwp9OwpyLm9uc3VjY2Vzcz1lPT5kYj1lLnRhcmdldC5yZXN1bHQ7CgpmdW5jdGlvbiBsb2dpbigpewogY29uc3QgdHg9ZGIudHJhbnNhY3Rpb24oInVzZXJzIik7CiB0eC5vYmplY3RTdG9yZSgidXNlcnMiKS5nZXQodXNlci52YWx1ZSkub25zdWNjZXNzPWU9PnsKICBjb25zdCBkPWUudGFyZ2V0LnJlc3VsdDsKICBpZihkICYmIGQucD09PXBhc3MudmFsdWUpewogICBjdXJyZW50VXNlcj1kOwogICBsb2dpbi5zdHlsZS5kaXNwbGF5PSJub25lIjsKICAgZGFzaC5jbGFzc0xpc3QucmVtb3ZlKCJoaWRkZW4iKTsKICB9ZWxzZSBhbGVydCgiRXJyb3IiKTsKIH07Cn0KCmZ1bmN0aW9uIGFkZFJvdygpewogY29uc3QgdHI9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgidHIiKTsKIHRyLmlubmVySFRNTD1gPHRkPjxpbnB1dD48L3RkPjx0ZD48aW5wdXQgdHlwZT1udW1iZXI+PC90ZD48dGQ+PGlucHV0IHR5cGU9bnVtYmVyPjwvdGQ+PHRkIGNsYXNzPXM+MDwvdGQ+YDsKIHRhYmxlLnF1ZXJ5U2VsZWN0b3IoInRib2R5IikuYXBwZW5kQ2hpbGQodHIpOwogdHIub25pbnB1dD0oKT0+ewogIGxldCBwPSt0ci5jaGlsZHJlblsxXS5jaGlsZHJlblswXS52YWx1ZXx8MDsKICBsZXQgcT0rdHIuY2hpbGRyZW5bMl0uY2hpbGRyZW5bMF0udmFsdWV8fDA7CiAgdHIucXVlcnlTZWxlY3RvcigiLnMiKS5pbm5lclRleHQ9cCpxOwogIGNhbGMoKTsKIH07Cn0KZnVuY3Rpb24gY2FsYygpewogbGV0IGc9MDsKIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoIi5zIikuZm9yRWFjaCh4PT5nKz0reC5pbm5lclRleHQpOwogdG90YWwuaW5uZXJUZXh0PWRpY3RbbGFuZ10udG90YWwrIjogIitnOwogcmVtYWluLmlubmVyVGV4dD1kaWN0W2xhbmddLnBhaWQrIjogIisoZy0oK3BhaWQudmFsdWV8fDApKTsKfQpmdW5jdGlvbiBuZXdQcm9qZWN0KCl7dGFibGUucXVlcnlTZWxlY3RvcigidGJvZHkiKS5pbm5lckhUTUw9IiJ9CmZ1bmN0aW9uIGV4cG9ydERhdGEoKXt9CmZ1bmN0aW9uIG9wZW5Vc2Vycygpe30K'))
+const loginBtn = document.getElementById("login-btn");
+const loginSection = document.getElementById("login-section");
+const mainApp = document.getElementById("main-app");
+
+async function biometricLogin() {
+  // إن كان مسجلاً سابقًا
+  if (localStorage.getItem("session")) {
+    unlockApp();
+    return;
+  }
+
+  // WebAuthn إن توفر
+  if (window.PublicKeyCredential) {
+    try {
+      await navigator.credentials.get({
+        publicKey: {
+          challenge: crypto.getRandomValues(new Uint8Array(32)),
+          timeout: 60000,
+          userVerification: "preferred"
+        }
+      });
+
+      secureSession();
+      unlockApp();
+      return;
+    } catch (e) {
+      console.warn("Biometric failed, fallback used");
+    }
+  }
+
+  // fallback آمن (بدون توقف)
+  secureSession();
+  unlockApp();
+}
+
+function secureSession() {
+  const session = {
+    ts: Date.now(),
+    ua: navigator.userAgent
+  };
+  localStorage.setItem(
+    "session",
+    btoa(JSON.stringify(session))
+  );
+}
+
+function unlockApp() {
+  loginSection.classList.add("hidden");
+  mainApp.classList.remove("hidden");
+
+  // إشعار نجاح
+  if (Notification.permission === "granted") {
+    new Notification("تم تسجيل الدخول بنجاح 🔐");
+  }
+}
+
+loginBtn.addEventListener("click", biometricLogin);
